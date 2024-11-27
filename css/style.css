@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #444444; 
+  background-color: #2A3335; 
   color: #f5f5f5;
   text-align: center;
   padding: 15px 0;
@@ -25,7 +25,7 @@ header h1 {
 }
 
 nav {
-  background-color: #4fb3c8; 
+  background-color: #0A97B0; 
   margin-bottom: 15px;
   padding: 10px 0;
 }
@@ -55,7 +55,7 @@ nav ul li a:hover {
 }
 
 main {
-  background-color: #fffdd0;
+  background-color: #FFCFEF;
   font-size: 18px; 
   width: 95%;
   margin: 0 auto;
@@ -80,7 +80,7 @@ main a:hover {
 }
 
 footer {
-  background-color: #444444; 
+  background-color: #2A3335; 
   color: #e0e0e0;
   text-align: center;
   position: relative;
